@@ -1,0 +1,10 @@
+C:\Users\Olo\source\repos\Projekt\Projekt\obj\Debug\Projekt.csprojResolveAssemblyReference.cache
+C:\Users\Olo\source\repos\Projekt\Projekt\obj\Debug\Projekt.Form1.resources
+C:\Users\Olo\source\repos\Projekt\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\Users\Olo\source\repos\Projekt\Projekt\obj\Debug\Projekt.csproj.GenerateResource.Cache
+C:\Users\Olo\source\repos\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Olo\source\repos\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\Olo\source\repos\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\Olo\source\repos\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\Olo\source\repos\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\Olo\source\repos\Projekt\Projekt\obj\Debug\Projekt.pdb
